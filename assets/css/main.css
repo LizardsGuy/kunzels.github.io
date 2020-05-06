@@ -827,8 +827,9 @@ a.back-to-top:hover, a.back-to-top:focus {
 .shot-item {
   margin-right: 15px;
   border-radius: 4px;
-  background: #fff;
+  /* background: #fff; */
   position: relative;
+  text-align: center;
 }
 
 .shot-item img {
